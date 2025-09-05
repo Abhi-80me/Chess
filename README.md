@@ -1,4 +1,4 @@
-﻿# Chess Master
+﻿# ChessPlay
 
 A real-time multiplayer chess platform with modern UI, move history, and spectator mode.
 
@@ -18,7 +18,7 @@ A real-time multiplayer chess platform with modern UI, move history, and spectat
 - Responsive, mobile-friendly UI with Tailwind CSS
 - Light/Dark mode with custom backgrounds
 - Spectator mode: watch any ongoing game live
-- Forward and backward feature 
+- Forward and backward feature
 
 ---
 
@@ -34,12 +34,14 @@ A real-time multiplayer chess platform with modern UI, move history, and spectat
 ## Getting Started
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/yourusername/chess-master.git
    cd chess-master
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
@@ -56,7 +58,6 @@ A real-time multiplayer chess platform with modern UI, move history, and spectat
 
 MIT License
 
-
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
@@ -72,4 +73,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-**Enjoy playing Chess Master!**
+**Enjoy playing ChessPlay!**
